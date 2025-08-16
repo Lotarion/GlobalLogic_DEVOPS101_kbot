@@ -15,7 +15,7 @@ import (
 
 var (
 	// Telegram bot auth token
-	teletoken = os.Getenv("TELEBOT_TOKEN")
+	teletoken = os.Getenv("TELE_TOKEN")
 )
 
 // serveCmd represents the serve command
